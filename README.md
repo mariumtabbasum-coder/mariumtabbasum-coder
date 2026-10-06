@@ -16,13 +16,8 @@ Main ek passionate Software Engineering student hoon jo user-friendly aur respon
 
 ### 🛠️ Languages and Tools  
 
-<p align="left">  
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="HTML5" width="40" height="40"/></a> 
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="CSS3" width="40" height="40"/></a> 
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40"/></a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Bootstrap" width="40" height="40"/></a> 
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Git" width="40" height="40"/></a> 
-</p>
+- 🌐 **Frontend:** `HTML5` | `CSS3` | `JavaScript` | `Bootstrap` | `jQuery`
+- ⚙️ **Version Control:** `Git` | `GitHub`
 
 ---
 
