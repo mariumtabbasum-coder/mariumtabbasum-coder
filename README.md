@@ -1,24 +1,66 @@
-# 💫 About Me:
-Hi 👋, I'm Marium Tabasum.<br><br>I'm a Software Engineering diploma student at Aptech, currently building my skills in frontend development. I enjoy creating responsive and user-friendly websites and learning through practical projects.<br><br>Currently focused on strengthening my frontend development skills, improving my JavaScript knowledge, and exploring modern web development practices.
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend%20Engineer%20%F0%9F%8E%A8;Making%20the%20web%20beautiful%20%E2%9C%A8)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marium-tabbasum-598a39436) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariumtabbasum@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mariumtabbasum-coder&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mariumtabbasum-coder&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mariumtabbasum-coder&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+# 👋 Hi, I'm Marium Tabbasum!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mariumtabbasum-coder&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+> "Transforming creative ideas into interactive, pixel-perfect web experiences."
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🌟 About Me
+
+- 🔭 **Currently building:** Frontend Development Project(The olive grove restaurant)
+- 🌱 **Learning:** SEO & Frontend Development
+- 👯 **Open to:** Beginner-friendly Frontend Projects(Open Source / Frontend Projects)
+- ⚡ **Fun fact:** I learn by building, experimenting, and improving
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-60b234?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-81b234?style=for-the-badge) ![jQuery](https://img.shields.io/badge/jQuery-a5b234?style=for-the-badge)
+
+**Frameworks & Libraries:**  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-aeb234?style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-b29234?style=for-the-badge)
+
+**Tools & DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-8134b2?style=for-the-badge)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Marium Tabbasum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariumtabbasum-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariumtabbasum-coder&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariumtabbasum-coder&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🚀 Featured Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Alberto-Watch-Company** | A luxury watch company website featuring an elegant dark and gold visual style, products showcase grid, store locator directory, dedicated customer support section, and fully responsive design across desktop and mobile screens. | [View →](https://github.com/mariumtabbasum-coder/Alberto-Watch-Company) |
+| **Student Portal** | "A responsive student dashboard created with jQuery to provide dynamic content loading, seamless data handling, and an intuitive user interface." | [View →](https://github.com/mariumtabbasum-coder/Student-Portal) |
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marium-tabbasum-598a39436s)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://v0-maryam-porfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariumtabbasum@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mariumtabbasum-coder&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+</div>
+
+<!-- Generated by ReadmeDesign.com -->
