@@ -39,4 +39,4 @@ Main ek passionate Software Engineering student hoon jo user-friendly aur respon
 
 ### 📬 Connect with Me  
 - 📧 Email: **[mariumtabassum@gmail.com](mailto:mariumtabassum@gmail.com)**  
-- 💼 LinkedIn: **[://linkedin.com](https://www.://linkedin.com)**  
+- 💼 LinkedIn: **(www.linkedin.com/in/marium-tabbasum-598a39436)**  
