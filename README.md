@@ -42,7 +42,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Alberto-Watch-Company** | A luxury watch company website featuring an elegant dark and gold visual style, products showcase grid, store locator directory, dedicated customer support section, and fully responsive design across desktop and mobile screens. | [View →](https://github.com/mariumtabbasum-coder/Alberto-Watch-Company) |
+| **Alberto-Watch-Company** | A luxury watch company website featuring an elegant dark and gold visual style, products showcase grid, store locator directory, dedicated customer support section, and fully responsive design across desktop and mobile screens. | [View →]( https://mariumtabbasum-coder.github.io/Alberto-Watch-100-SEO/) |
 | **Student Portal** | "A responsive student dashboard created with jQuery to provide dynamic content loading, seamless data handling, and an intuitive user interface." | [View →](https://github.com/mariumtabbasum-coder/Student-Portal) |
 
 ## 🤝 Connect With Me
