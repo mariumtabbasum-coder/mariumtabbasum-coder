@@ -15,6 +15,13 @@
 - 👯 **Open to:** Beginner-friendly Frontend Projects(Open Source / Frontend Projects)
 - ⚡ **Fun fact:** I learn by building, experimenting, and improving
 
+  ### 📚 Currently Learning
+---
+
+- 🤖 **Generative AI:** LLMs, Embeddings, and Retrieval-Augmented Generation (RAG)
+- 💻 **Software Engineering:** XML and JSON
+- 🚀 **Hands-on Practice:** Exploring new concepts through practical learning and projects
+
 ## 🛠️ Tech Stack
 
 **Languages:**  
