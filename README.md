@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-- 🔭 **Currently building:** Frontend Development Project(The olive grove restaurant)
+- 🔭 **Currently building:** Frontend Development Project(skincare and clothing brand)
 - 🌱 **Learning:** SEO & Frontend Development
 - 👯 **Open to:** Beginner-friendly Frontend Projects(Open Source / Frontend Projects)
 - ⚡ **Fun fact:** I learn by building, experimenting, and improving
