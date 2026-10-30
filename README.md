@@ -37,11 +37,11 @@
 
 <div align="center">
 
-![Marium Tabbasum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariumtabbasum-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://vercel.app" alt="Marium Tabbasum's GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariumtabbasum-coder&theme=tokyonight&hide_border=true)
+<img src="https://herokuapp.com" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariumtabbasum-coder&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://vercel.app" alt="Top Languages" />
 
 </div>
 
