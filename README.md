@@ -33,17 +33,6 @@
 **Tools & DevOps:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-8134b2?style=for-the-badge)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Marium Tabbasum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariumtabbasum-coder&show icons=true&theme=tokyonight&hide border=true&count private=true)
-
-![GitHub Streak]((https://github-readme-stats.herokuapp.com/api?username=mariumtabbasum-coder&theme=tokyonight&hide border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariumtabbasum-coder&layout=compact&theme=tokyonight&hide border=true)
-
-</div>
 
 ## 🚀 Featured Projects
 
